@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ToxRadar Articles</title>
+    <link>https://marcssschmidt.github.io/toxradar/</link>
+    <description>Toxikologische Analysen aktueller Ereignisse</description>
+    <language>de</language>
+    <atom:link href="https://marcssschmidt.github.io/toxradar/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toxikologische Gefährdung durch Luftschadstoffe nach Zerstörung von Öldepots in Teheran und Karaj</title>
+      <link>https://marcssschmidt.github.io/toxradar/teheran-oeldepots-luftschadstoffe/</link>
+      <guid>https://marcssschmidt.github.io/toxradar/teheran-oeldepots-luftschadstoffe/</guid>
+      <pubDate>Tue, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Freisetzung toxischer Kohlenwasserstoffe, Schwefel- und Stickstoffoxide: Inhalationsrisiken, Schutzmaßnahmen und das Potenzial zur Säureregenentstehung im urbanen Raum</description>
+    </item>
+  </channel>
+</rss>
