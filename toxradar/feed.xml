@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ToxRadar Articles</title>
+    <link>https://marc-sschmidt.github.io/toxradar/</link>
+    <description>Toxicological analyses of current events</description>
+    <language>en</language>
+    <atom:link href="https://marc-sschmidt.github.io/toxradar/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toxicological Hazards from Air Pollutants Following Destruction of Oil Depots in Tehran and Karaj</title>
+      <link>https://marc-sschmidt.github.io/toxradar/teheran-oeldepots-en/</link>
+      <guid>https://marc-sschmidt.github.io/toxradar/teheran-oeldepots-en/</guid>
+      <pubDate>Tue, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Release of toxic hydrocarbons, sulfur and nitrogen oxides: inhalation risks, protective measures, and the potential for acid rain formation in urban areas</description>
+    </item>
+    <item>
+      <title>Toxikologische Gefährdung durch Luftschadstoffe nach Zerstörung von Öldepots in Teheran und Karaj</title>
+      <link>https://marc-sschmidt.github.io/toxradar/teheran-oeldepots/</link>
+      <guid>https://marc-sschmidt.github.io/toxradar/teheran-oeldepots/</guid>
+      <pubDate>Tue, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Freisetzung toxischer Kohlenwasserstoffe, Schwefel- und Stickstoffoxide: Inhalationsrisiken, Schutzmaßnahmen und das Potenzial zur Säureregenentstehung im urbanen Raum</description>
+    </item>
+  </channel>
+</rss>
